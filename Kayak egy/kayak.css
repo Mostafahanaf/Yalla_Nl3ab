@@ -1,0 +1,42 @@
+body{
+    background-image: url(1014889.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+.k{ text-align: center;
+font-size: xxx-large;
+word-spacing: 10px;
+ }
+.tlata{
+    text-align: center;
+    font-size: x-large;
+    line-height: 1px;
+    text-decoration-line: overline;
+    font-family: Arial, Helvetica, sans-serif;}
+.messi{
+    height: 300px ;
+    width: 300px;
+    float: left; 
+    clear: both;
+margin-right: 40px; border-radius: 50px; padding: 40px 0px 0px 0px;
+}
+.lol{text-align: center;}
+.loc{font-size: 30px; padding: 50px 0px;
+ font-weight: bold;}
+.no{font-size: 30px; padding: 0px 0px;
+ font-weight: bold}
+.con{font-size: 30px; padding: 40px 0px ;   font-weight: bold}
+.page{font-size: 30px;  font-weight: bold
+}
+.afsha{height: 300px; width: 300px; float: left; clear: both; border-radius: 60px; padding: 30px 30px 0px 0px;}
+.loc2{padding: 50px 0px 0px 0px; font-size: 30px; font-weight: bold}
+.no2{padding: 40px 0px 0px 0px; font-size: 30px;   font-weight: bold}
+.pri{ padding: 40px 0px 0px 0px ; font-size: 30px; font-weight: bold;} 
+.social{padding: 40px 0px 0px 0px ; font-size: 30px ; font-weight: bold;}
+.barca{width: 300px; height: 300px; float: left; clear: both; border-radius: 40px; padding: 40px 30px 0px 0px ;}
+.loc3{padding: 70px 0px 0px 0px; font-size: 30px; font-weight: bold;}
+.no3{padding: 40px 0px 0px 0px; font-size: 30px; font-weight: bold;}
+.pri3{padding: 40px 0px 0px 0px ;font-size: 30px ;font-weight: bold;}
+.con3{padding: 25px 0px 0px 0px ; font-size: 30px; font-weight: bold;}
